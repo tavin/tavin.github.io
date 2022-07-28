@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="704.38708"
+   height="148.78606"
+   version="1.1"
+   id="svg94"
+   sodipodi:docname="nn.svg"
+   inkscape:version="1.2 (56b05e47e7, 2022-06-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview96"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.22097378"
+     inkscape:cx="1649.5169"
+     inkscape:cy="1312.3729"
+     inkscape:window-width="2880"
+     inkscape:window-height="1722"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg94" />
+  <g
+     transform="matrix(1.0844774,0,0,1.0844774,-773.06367,-513.50005)"
+     id="g87">
+    <path
+       class="link"
+       d="m 746.66667,504 180,20"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path34" />
+    <path
+       class="link"
+       d="m 746.66667,504 180,60"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path36" />
+    <path
+       class="link"
+       d="m 746.66667,544 180,-20"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path38" />
+    <path
+       class="link"
+       d="m 746.66667,544 180,20"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path40" />
+    <path
+       class="link"
+       d="m 926.66667,484 180.00003,40"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path42" />
+    <path
+       class="link"
+       d="m 926.66667,484 180.00003,80"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path44" />
+    <path
+       class="link"
+       d="M 926.66667,524 H 1106.6667"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path46" />
+    <path
+       class="link"
+       d="m 926.66667,524 180.00003,40"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path48" />
+    <path
+       class="link"
+       d="M 926.66667,564 1106.6667,524"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path50" />
+    <path
+       class="link"
+       d="M 926.66667,564 H 1106.6667"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path52" />
+    <path
+       class="link"
+       d="m 1106.6667,484 180,40"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path54" />
+    <path
+       class="link"
+       d="m 1106.6667,524 h 180"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path56" />
+    <path
+       class="link"
+       d="m 1106.6667,564 180,-40"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path58" />
+    <path
+       class="link"
+       d="m 746.66667,504 180,-20"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path60" />
+    <path
+       class="link"
+       d="m 746.66667,544 180,-60"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path62" />
+    <path
+       class="link"
+       d="M 926.66667,484 H 1106.6667"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path64" />
+    <path
+       class="link"
+       d="M 926.66667,524 1106.6667,484"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path66" />
+    <path
+       class="link"
+       d="M 926.66667,564 1106.6667,484"
+       style="stroke:#505050;stroke-width:0.5;stroke-opacity:1"
+       id="path68" />
+    <circle
+       r="10"
+       class="node"
+       id="0_0"
+       cx="746.66669"
+       cy="504"
+       style="fill:#ffffff;stroke:#333333" />
+    <circle
+       r="10"
+       class="node"
+       id="0_1"
+       cx="746.66669"
+       cy="544"
+       style="fill:#ffffff;stroke:#333333" />
+    <circle
+       r="10"
+       class="node"
+       id="1_0"
+       cx="926.66669"
+       cy="484"
+       style="fill:#ffffff;stroke:#333333" />
+    <circle
+       r="10"
+       class="node"
+       id="1_1"
+       cx="926.66669"
+       cy="524"
+       style="fill:#ffffff;stroke:#333333" />
+    <circle
+       r="10"
+       class="node"
+       id="1_2"
+       cx="926.66669"
+       cy="564"
+       style="fill:#ffffff;stroke:#333333" />
+    <circle
+       r="10"
+       class="node"
+       id="2_0"
+       cx="1106.6666"
+       cy="484"
+       style="fill:#ffffff;stroke:#333333" />
+    <circle
+       r="10"
+       class="node"
+       id="2_1"
+       cx="1106.6666"
+       cy="524"
+       style="fill:#ffffff;stroke:#333333" />
+    <circle
+       r="10"
+       class="node"
+       id="2_2"
+       cx="1106.6666"
+       cy="564"
+       style="fill:#ffffff;stroke:#333333" />
+    <circle
+       r="10"
+       class="node"
+       id="3_0"
+       cx="1286.6666"
+       cy="524"
+       style="fill:#ffffff;stroke:#333333" />
+    <text
+       class="text"
+       dy="0.34999999em"
+       x="711.66669"
+       y="604"
+       style="font-size:12px"
+       id="text79">Input Layer ∈ ℝ²</text>
+    <text
+       class="text"
+       dy="0.34999999em"
+       x="891.66669"
+       y="604"
+       style="font-size:12px"
+       id="text81">Hidden Layer ∈ ℝ³</text>
+    <text
+       class="text"
+       dy="0.34999999em"
+       x="1071.6666"
+       y="604"
+       style="font-size:12px"
+       id="text83">Hidden Layer ∈ ℝ³</text>
+    <text
+       class="text"
+       dy="0.34999999em"
+       x="1251.6666"
+       y="604"
+       style="font-size:12px"
+       id="text85">Output Layer ∈ ℝ¹</text>
+  </g>
+  <defs
+     id="defs92">
+    <marker
+       id="arrow"
+       viewBox="0 -5 10 10"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto"
+       refX="40">
+      <path
+         d="M 0,-5 10,0 0,5"
+         style="fill:none;stroke:#505050"
+         id="path89" />
+    </marker>
+  </defs>
+</svg>
